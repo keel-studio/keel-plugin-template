@@ -27,7 +27,7 @@ migrations/       V1__init.sql …: its own tables, with its own history
 ## Release
 
 A tag `v0.1.0` builds `example-0.1.0.kplug`, signs it, and makes a GitHub release (the workflow comes with the SDK).
-Then add your plugin to [keel-marketplace](https://github.com/MiladNalbandi/keel-marketplace).
+Then add your plugin to [keel-marketplace](https://github.com/keel-studio/keel-marketplace).
 
 ## License
 
